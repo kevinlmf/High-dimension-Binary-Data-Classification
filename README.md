@@ -19,6 +19,12 @@ The thesis proposes a novel approach to binary classification in high-dimensiona
 - EM algorithm
 - Discriminant analysis
 
+## References
+This project leverages the **CHIME algorithm** for clustering high-dimensional Gaussian mixtures,  
+as proposed by Cai, Ma, and Zhang (2019) in *The Annals of Statistics*.  
+[CHIME: Clustering of High-Dimensional Gaussian Mixtures with EM Algorithm and its Optimality](https://doi.org/10.1214/18-AOS1711)
+
+
 ## 📬 Contact
 
 For questions or collaboration opportunities, please contact:
